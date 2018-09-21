@@ -1,4 +1,4 @@
-# APIDInteractomes
+# APID Interactomes
 
 URL: http://apid.dep.usal.es
 
